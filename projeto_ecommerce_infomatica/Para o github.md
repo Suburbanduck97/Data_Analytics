@@ -1,0 +1,54 @@
+﻿# Análise de Dados E-commerce de informática
+## Missão:
+1.  **Quantas vendas foram realizadas por estado?**
+    
+2.  **Quais clientes compraram mais de uma vez?**
+    
+3.   **Qual é o ticket médio por cliente?**
+    
+4.   **Quais são os três produtos mais vendidos (em quantidade)?**
+    
+5.   **Qual foi o faturamento total por categoria de produto?**
+    
+6.   **Quais clientes compraram produtos da categoria 'Periféricos'?**
+    
+7.   **Qual foi o dia com maior faturamento?**
+    
+8.   **Clientes que nunca compraram.**
+    
+9.   **Total vendido por produto, com quantidade e valor total.**
+    
+10.   **Comparativo de vendas por gênero do cliente.**
+
+## Respostas:
+1. SP - 5 vendas -> 56% das vendas
+RJ - 2 vendas -> 22% das vendas
+BA - 1 venda -> 11% das vendas
+MG - 1 venda -> 11% das vendas
+
+2. Ana Souza - 3 vendas
+3. João Pedro -> R$3200,00
+Ana Souza -> R$1986,66
+Carlos Lima -> R$240,00
+Fernanda Alves -> R$120,00
+
+4. Mouse Logitech -> 6 vendas
+Monitor LG 27 - 1 venda
+Notbook Dell -> 1 venda
+
+5. Informática -> R$4500,00
+Telefonia -> R$3200,00
+Periféricos -> R$1820,00
+
+6. Ana Souza, Carlos Lima, Fernanda Alves
+7. 10/06/2024 -> R$4500,00
+8. Nulo
+9. Notebook Dell -> 1 -> R$4500,00
+Smartphone Samsung -> 1 -> R$3200,00
+Monitor LG 27 -> 1 -> R$1100,00
+Mouse Logitech -> 6 -> R$360,00
+
+10. Feminino: 6 | Masculino: 3
+
+## Info
+Dados Analisados Através do MySQL | DQL
